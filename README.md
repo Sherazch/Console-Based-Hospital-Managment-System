@@ -1,2 +1,2 @@
-# Tokenizer
-to built lexical analyzer
+#Patient-Doctor Portal
+Console Based Hospital Management System with DataBase
